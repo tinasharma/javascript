@@ -1,0 +1,18 @@
+h2
+{
+	color: green;
+	font-size: 20px;
+}
+
+#myTable
+{
+	background-color: yellow;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.myTBody
+{
+	font-style: serif;
+}
+
