@@ -1,0 +1,21 @@
+body{
+  text-align:center;
+  background-color:lightpink;
+}
+
+tbody{
+  text-align:center;
+}
+
+table, #frame {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+  border: 10px dashed antiquewhite;
+}
+
+#cell2, #cell3{
+  opacity: 0.0;
+}
